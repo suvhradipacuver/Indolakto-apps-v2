@@ -1,0 +1,18 @@
+export const ITEMS = [
+  { key: "CS-Z25XKRW", value: "SPLIT TYPE ROOM AIR CONDITIONER (INDOOR)", listUnitPrice: "126.88", uom: "ST" },
+  { key: "CU-Z25XKR", value: "SPLIT TYPE ROOM AIR CONDITIONER (OUTDOOR)", listUnitPrice: "190.31", uom: "ST" },
+  { key: "DUMF6200LT-1", value: "Floor Box 3-Compartment", listUnitPrice: "21.61", uom: "PC" },
+  { key: "CS-ME9SB4U", value: "MULTI SPLIT TYPE AIR CONDITIONER (INDOOR)", listUnitPrice: "248.38", uom: "ST" },
+  { key: "CS-RE9SKUA", value: "SPLIT TYPE ROOM AIR CONDITIONER (INDOOR)", listUnitPrice: "101.64", uom: "ST" },
+  { key: "CS-XE15WKUAW", value: "SPLIT TYPE ROOM AIR CONDITIONER (INDOOR)", listUnitPrice: "157.77", uom: "ST" },
+  { key: "CS-XE9WKUAW", value: "SPLIT TYPE ROOM AIR CONDITIONER (INDOOR)", listUnitPrice: "156.59", uom: "ST" },
+  { key: "CU-4E24RBU-5", value: "MULTI SPLIT TYPE ROOM AIR CONDITIONER (OUTDOOR)", listUnitPrice: "921.08", uom: "ST" },
+  { key: "CU-XE15WKUA", value: "SPLIT TYPE ROOM AIR CONDITIONER (OUTDOOR)", listUnitPrice: "446.62", uom: "ST" },
+  { key: "CU-E18RKUA", value: "SPLIT TYPE ROOM AIR CONDITIONER (OUTDOOR)", listUnitPrice: "574.5", uom: "ST" },
+  { key: "CU-RE9SKUA", value: "SPLIT TYPE ROOM AIR CONDITIONER (OUTDOOR)", listUnitPrice: "295.52", uom: "ST" },
+  { key: "CU-XE12WKUA", value: "SPLIT TYPE ROOM AIR CONDITIONER (OUTDOOR)", listUnitPrice: "341.01", uom: "ST" },
+  { key: "CU-XE9WKUA", value: "SPLIT TYPE ROOM AIR CONDITIONER (OUTDOOR)", listUnitPrice: "339.38", uom: "ST" },
+  { key: "NR-BB211PKMY", value: "FREEZER REFRIGERATOR WITH SEPARATE DOORS", listUnitPrice: "172.68", uom: "ST" },
+  { key: "NR-AF166SSMY", value: "ELECTRIC REFRIGERATOR (COMPRESSION-TYPE)", listUnitPrice: "104.33", uom: "ST" },
+  { key: "NR-AF176SSMY", value: "ELECTRIC REFRIGERATOR (COMPRESSION-TYPE)", listUnitPrice: "110.52", uom: "ST" },
+];

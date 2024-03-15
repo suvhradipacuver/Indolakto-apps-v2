@@ -1,0 +1,17 @@
+export type TooltipPosition =
+  | "top-start"
+  | "top-end"
+  | "bottom-start"
+  | "bottom-end"
+  | "right-start"
+  | "right-end"
+  | "left-start"
+  | "left-end"
+  | "auto"
+  | "auto-start"
+  | "auto-end"
+  | "top"
+  | "bottom"
+  | "right"
+  | "left"
+  | "auto";
