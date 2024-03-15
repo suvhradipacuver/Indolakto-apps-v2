@@ -70,7 +70,7 @@ const AddQuoteCustomer = () => {
       quoteId: `PAN_` + Math.floor(Math.random() * 1000).toString(),
       salesOrderId: "",
       copyAdminInMail: false,
-      email: "ritesh.a@indolakto.com",
+      email: "suhi.a@indolakto.com",
       expiresOn: "",
       orgId: "PLGA",
       items: [

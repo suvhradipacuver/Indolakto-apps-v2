@@ -119,7 +119,7 @@ const AddQuote = () => {
           "PANASONIC CONSUMER MARKETING ASIA PACIFIC 202 BEDOK SOUTH AVE 1, UNIT NO. 02-01",
         billTo:
           "PANASONIC CONSUMER MARKETING ASIA PACIFIC 202 BEDOK SOUTH AVE 1, UNIT NO. 02-01",
-        email: "ritesh.a@indolakto.com",
+        email: "suhi.a@indolakto.com",
         mobileNo: "00197148819880",
         paymentTerms: "Advance Payment",
         salesRep: "Oliver",
